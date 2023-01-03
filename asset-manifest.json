@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teatro-desde-la-nada/static/css/main.42f5625c.chunk.css",
-    "main.js": "/teatro-desde-la-nada/static/js/main.393e56e2.chunk.js",
-    "main.js.map": "/teatro-desde-la-nada/static/js/main.393e56e2.chunk.js.map",
+    "main.js": "/teatro-desde-la-nada/static/js/main.6bf31590.chunk.js",
+    "main.js.map": "/teatro-desde-la-nada/static/js/main.6bf31590.chunk.js.map",
     "runtime-main.js": "/teatro-desde-la-nada/static/js/runtime-main.7cd6ecc4.js",
     "runtime-main.js.map": "/teatro-desde-la-nada/static/js/runtime-main.7cd6ecc4.js.map",
     "static/js/2.dae6e4a0.chunk.js": "/teatro-desde-la-nada/static/js/2.dae6e4a0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7cd6ecc4.js",
     "static/js/2.dae6e4a0.chunk.js",
     "static/css/main.42f5625c.chunk.css",
-    "static/js/main.393e56e2.chunk.js"
+    "static/js/main.6bf31590.chunk.js"
   ]
 }
