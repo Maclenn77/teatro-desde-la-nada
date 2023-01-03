@@ -7,7 +7,7 @@ import {
 import Talleres from './pages/Talleres';
 import Home from './pages/Home';
 import Contacto from './pages/Contacto';
-import Navbar from './components/Navbar';
+import Menu from "./components/Menu";
 
 class App extends React.Component { // eslint-disable-line
 
@@ -15,10 +15,10 @@ class App extends React.Component { // eslint-disable-line
     return (
         <Router>
           <div>
-            <Navbar />
+            <Menu />
             <Routes>
               <Route exact path="/talleres" element={<Talleres />} />
-              <Route exact path="/" element={<Home />} />
+              <Route exact path="/teatro-desde-la-nada" element={<Home />} />
               <Route exact path="/contacto" element={<Contacto />} />
             </Routes>
           </div>
