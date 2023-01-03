@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teatro-desde-la-nada/static/css/main.42f5625c.chunk.css",
+    "main.js": "/teatro-desde-la-nada/static/js/main.393e56e2.chunk.js",
+    "main.js.map": "/teatro-desde-la-nada/static/js/main.393e56e2.chunk.js.map",
+    "runtime-main.js": "/teatro-desde-la-nada/static/js/runtime-main.7cd6ecc4.js",
+    "runtime-main.js.map": "/teatro-desde-la-nada/static/js/runtime-main.7cd6ecc4.js.map",
+    "static/js/2.dae6e4a0.chunk.js": "/teatro-desde-la-nada/static/js/2.dae6e4a0.chunk.js",
+    "static/js/2.dae6e4a0.chunk.js.map": "/teatro-desde-la-nada/static/js/2.dae6e4a0.chunk.js.map",
+    "static/js/3.8e03d586.chunk.js": "/teatro-desde-la-nada/static/js/3.8e03d586.chunk.js",
+    "static/js/3.8e03d586.chunk.js.map": "/teatro-desde-la-nada/static/js/3.8e03d586.chunk.js.map",
+    "index.html": "/teatro-desde-la-nada/index.html",
+    "static/css/main.42f5625c.chunk.css.map": "/teatro-desde-la-nada/static/css/main.42f5625c.chunk.css.map",
+    "static/js/2.dae6e4a0.chunk.js.LICENSE.txt": "/teatro-desde-la-nada/static/js/2.dae6e4a0.chunk.js.LICENSE.txt",
+    "static/media/logo.07156871.jpg": "/teatro-desde-la-nada/static/media/logo.07156871.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cd6ecc4.js",
+    "static/js/2.dae6e4a0.chunk.js",
+    "static/css/main.42f5625c.chunk.css",
+    "static/js/main.393e56e2.chunk.js"
+  ]
+}
