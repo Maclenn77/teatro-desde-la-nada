@@ -1,0 +1,29 @@
+// Override default variables before the import
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+$body-bg: #212529;
+$display-font-family: 'Playfair Display', serif;
+$font-family-base: 'Montserrat', sans-serif;
+$hr-border-color: #c90707;
+/* $hr-color: #c90707; */
+$primary: #c90707;
+hr {
+  box-sizing: content-box;
+  overflow: visible;
+  margin: 5px;
+  border: 10px solid #c90707;
+  border-radius: 2px;
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+.jumbotron {
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
